@@ -1,3 +1,2 @@
-# git_course
-# Class n how to link local repositories and make changes.
-# Going well so far
+# SpaceX Machine Learning Prediction
+# Download the notebooks and run on your machine
